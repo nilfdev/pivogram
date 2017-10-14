@@ -404,6 +404,28 @@ a.boxclose{
 .artical-pic1{
 	float:left;
 }
+
+.appdownload
+{
+	text-align: left;
+	background-color: lightgoldenrodyellow;
+	padding: 3em 0;
+	background-size: 100% 100%;
+}
+
+.appdownload h2{
+	font-size: 2em;
+	color: black;
+	font-family: 'pt_sansbold';
+}
+
+.appdownload h2 span{
+	height: 3px;
+	width: 2.5%;
+	background: red;
+	display: block;
+}
+
 /*----fea-video----*/
 .fea-video{
 	text-align: center;
